@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- ⚡ Fun fact **I make YouTube Videos**
+- ⚡ Fun fact **I play guitar**
 
 - 📫 How to reach me **cambates99@gmail.com**
 
