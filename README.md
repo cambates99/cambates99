@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron Bates</h1>
 <p align="center"> <img src="https://intellitect.com/wp-content/uploads/2021/03/NET-Essential-C-Sharp-9-banner-1536x384.png" alt="cambates99"> </p>
-<h3 align="center">Actively seeking out an entry-level biomedical/software engineering job</h3>
+<h3 align="center">I'm currently working as a junior software engineer at Cox Automotive</h3>
 
 
 
